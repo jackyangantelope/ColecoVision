@@ -1,0 +1,13 @@
+/build/
+/.claude/
+/.codex/
+/tools/release/
+*.uf2
+*.elf
+*.map
+*.bin
+*.hex
+*.dis
+*.rom
+*.col
+__pycache__/
